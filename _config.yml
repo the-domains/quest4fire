@@ -1,3 +1,7 @@
+name: Quest4fire
+favicon: null
+layout_spectrum: 0.5874725
+typography_spectrum: 0.9343708
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.9343708
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9249067
-  brandStrength: 0.4192704
-  lightness: 0.508862
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  rhythmicContrast: 0.7472015
-layout_spectrum: 0.5874725
-name: Quest4fire
+  brandStrength: 0.75
+  lightness: 0.1875
+  saturation: 0.75
+  rhythmicContrast: 1
+purpose: []
