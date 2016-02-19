@@ -1,0 +1,14 @@
+layout_spectrum: 0.5874725
+typography_spectrum: 0.9343708
+color:
+  saturation: 0.773244
+  lightness: 0.2597632
+  brandStrength: 0.4192704
+  rhythmicContrast: 0.5396094
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Quest4fire
