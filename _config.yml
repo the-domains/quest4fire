@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.7132617
 color:
-  saturation: 0.9249067
-  brandStrength: 0.546595
-  lightness: 0.508862
+  saturation: 0.8727599
+  brandStrength: 0.8136201
+  lightness: 0.2419355
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  rhythmicContrast: 0.7472015
-typography_spectrum: 0.9343708
-layout_spectrum: 0.9587814
+    - '#424242'
+    - '#A39280'
+    - '#DFE0CE'
+    - '#CFBFA2'
+    - '#866333'
+  rhythmicContrast: 0.2240143
+layout_spectrum: 1
 name: Quest4fire
