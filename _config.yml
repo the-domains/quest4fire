@@ -1,26 +1,26 @@
-color:
-  saturation: 0.773244
-  brandStrength: 0.4192704
-  rhythmicContrast: 0.5396094
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  lightness: 0.2597632
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.5874725
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.9343708
+color:
+  saturation: 0.9249067
+  brandStrength: 0.4192704
+  lightness: 0.508862
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  rhythmicContrast: 0.7472015
+layout_spectrum: 0.5874725
 name: Quest4fire
