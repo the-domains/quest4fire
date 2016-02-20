@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.7132617
 color:
   saturation: 0.8727599
   brandStrength: 0.8136201
@@ -22,5 +21,6 @@ color:
     - '#FFFBE0'
     - '#FFCF38'
   rhythmicContrast: 0.2240143
-layout_spectrum: 1
+typography_spectrum: 0.7132617
+layout_spectrum: 0
 name: Quest4fire
