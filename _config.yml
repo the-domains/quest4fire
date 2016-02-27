@@ -1,40 +1,40 @@
-name: Quest4fire
-favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.00298
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+purpose: []
+color:
+  saturation: 0.5
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#151516'
+    - '#036EAB'
+    - '#656D80'
+    - '#CFC6C6'
+    - '#1F426E'
+  rhythmicContrast: 1
+typography_spectrum: 0.00298
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#7a7a84'
-    - '#bbb9bc'
-    - '#a3a2a8'
-    - '#414050'
-    - '#596782'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 1
-purpose: []
+favicon: null
+name: Quest4fire
